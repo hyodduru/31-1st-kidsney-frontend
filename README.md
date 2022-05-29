@@ -5,7 +5,7 @@
 * 프로젝트 진행 기간 : 3월 28일 ~ 4월 8일
 * 프로젝트 주제 : 커머스 웹사이트 클론 코딩하기
 * 클론 코딩한 웹사이트 : 디즈니샵 https://www.shopdisney.com
-* 구성 : Front-end 3명, Back-end 2명
+* 구성 : Front-end 3명(김보윤, 김효정, 윤재웅), Back-end 2명(김대현, 이원빈)
 * 키즈니 웹사이트 촬영 링크 : https://youtu.be/86o9GiGkjwg
 
 
